@@ -4,8 +4,8 @@
       "id": 1,
       "title": "Casio Scientific Calculator FX-570EX",
       "description": "Reliable used scientific calculator suitable for secondary and college students. Fully functional with minor cosmetic wear.",
-      "category": ["stationery", "used-items"],
-      "price": 75.00,
+      "category": "stationery",
+      "price": 999999.99,
       "discountPercentage": 10.0,
       "rating": 4.5,
       "stock": 10,
@@ -34,15 +34,15 @@
         "barcode": "9551234567890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/product-images/misc/calculator.webp"],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/calculator-thumb.webp"
+      "images": ["https://www.casio.com/content/dam/casio/product-info/locales/intl/en/calc/product/scientific/F/FX/FX5/fx-570EX/assets/fx-570EX_F.png.transform/main-visual-pc/image.png"],
+      "thumbnail": "https://www.casio.com/content/dam/casio/product-info/locales/intl/en/calc/product/scientific/F/FX/FX5/fx-570EX/assets/fx-570EX_F.png.transform/main-visual-pc/image.png"
     },
     {
       "id": 2,
       "title": "A4 Ring Binder File (Used)",
       "description": "Durable used binder in good condition, perfect for organizing class notes and assignments.",
-      "category": ["stationery", "used-items"],
-      "price": 5.00,
+      "category": "stationery",
+      "price": 67.67,
       "discountPercentage": 10.0,
       "rating": 4.2,
       "stock": 30,
@@ -52,7 +52,7 @@
       "weight": 300,
       "dimensions": { "width": 25.0, "height": 32.0, "depth": 4.0 },
       "warrantyInformation": "No warranty",
-      "shippingInformation": "Ships in 2-4 business days",
+      "shippingInformation": "Ships in 3 days",
       "availabilityStatus": "In Stock",
       "reviews": [
         {
@@ -71,15 +71,15 @@
         "barcode": "9550987654321",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/product-images/misc/binder.webp"],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/binder-thumb.webp"
+      "images": ["https://m.media-amazon.com/images/I/719SVK-MJeL._AC_.jpg"],
+      "thumbnail": "https://m.media-amazon.com/images/I/719SVK-MJeL._AC_.jpg"
     },
     {
       "id": 3,
       "title": "Used Mechanical Pencil Set",
-      "description": "Set of 3 mechanical pencils in working condition, suitable for everyday school use.",
-      "category": ["stationery", "used-items"],
-      "price": 8.00,
+      "description": "Set of 14 mechanical pencils in working condition, suitable for everyday school use.",
+      "category": "stationery",
+      "price": 1299.99,
       "discountPercentage": 10.0,
       "rating": 4.0,
       "stock": 20,
@@ -96,7 +96,7 @@
           "rating": 4,
           "comment": "Slightly worn but still writes smoothly!",
           "date": "2025-04-30T09:41:02.053Z",
-          "reviewerName": "Jason Tan",
+          "reviewerName": "Jenson Ohh",
           "reviewerEmail": "jason.tan@x.dummyjson.com"
         }
       ],
@@ -108,15 +108,15 @@
         "barcode": "9556543217890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/product-images/misc/pencil.webp"],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/pencil-thumb.webp"
+      "images": ["https://images-na.ssl-images-amazon.com/images/I/81j79yOmTwL._AC_SL1500_.jpg"],
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81j79yOmTwL._AC_SL1500_.jpg"
     },
     {
       "id": 4,
       "title": "Used School Bag (Standard Size)",
       "description": "Gently used school bag with spacious compartments. Suitable for primary or secondary school students.",
-      "category": ["used-items"],
-      "price": 25.00,
+      "category": "used-items",
+      "price": 999.99,
       "discountPercentage": 10.0,
       "rating": 4.3,
       "stock": 5,
@@ -125,15 +125,15 @@
       "sku": "USE-BAG-SCH-004",
       "weight": 700,
       "dimensions": { "width": 30.0, "height": 45.0, "depth": 15.0 },
-      "warrantyInformation": "1 month warranty",
-      "shippingInformation": "Ships in 5 business days",
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Ships in 5 days",
       "availabilityStatus": "Low Stock",
       "reviews": [
         {
           "rating": 5,
           "comment": "Still in great condition and comfortable to carry!",
           "date": "2025-04-30T09:41:02.053Z",
-          "reviewerName": "Nur Aisyah",
+          "reviewerName": "Nur Ellysha",
           "reviewerEmail": "nur.aisyah@x.dummyjson.com"
         }
       ],
@@ -145,15 +145,15 @@
         "barcode": "9553344556677",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/product-images/misc/school-bag.webp"],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/school-bag-thumb.webp"
+      "images": ["https://i5.walmartimages.com/asr/76526810-91da-4917-87c1-69245968fdc7_2.f1f4cd6ed762d85ca8fcb08508c10147.jpeg"],
+      "thumbnail": "https://i5.walmartimages.com/asr/76526810-91da-4917-87c1-69245968fdc7_2.f1f4cd6ed762d85ca8fcb08508c10147.jpeg"
     },
     {
       "id": 5,
       "title": "Used Water Bottle 500ml",
       "description": "Reusable 500ml water bottle, cleaned and sanitized. Ideal for school use.",
-      "category": ["used-items"],
-      "price": 6.00,
+      "category": "used-items",
+      "price": 499.99,
       "discountPercentage": 10.0,
       "rating": 3.9,
       "stock": 15,
@@ -170,7 +170,7 @@
           "rating": 4,
           "comment": "Good condition and very clean.",
           "date": "2025-04-30T09:41:02.053Z",
-          "reviewerName": "Adrian Lim",
+          "reviewerName": "Jonathan Lim",
           "reviewerEmail": "adrian.lim@x.dummyjson.com"
         }
       ],
@@ -182,32 +182,32 @@
         "barcode": "9557766554433",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/product-images/misc/water-bottle.webp"],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/water-bottle-thumb.webp"
+      "images": ["https://www.ion8.co.uk/cdn/shop/files/B0BS6VBNY9.MAIN_dc7a1319-8d2f-4e80-bc8e-417105d18bd8.jpg?v=1750939037&width=1946"],
+      "thumbnail": "https://www.ion8.co.uk/cdn/shop/files/B0BS6VBNY9.MAIN_dc7a1319-8d2f-4e80-bc8e-417105d18bd8.jpg?v=1750939037&width=1946"
     },
     {
       "id": 6,
       "title": "Half-Used Faber Castell Pen",
       "description": "Enjoy the smoothest performance and a stylish new look, this isn’t just a pen - it’s your vibe. For the cheap price of only 199. Sourced from 'journalists' in class.",
       "category": ["stationery", "used-items"],
-      "price": 199.00,
+      "price": 199.99,
       "discountPercentage": 10.0,
       "rating": 4.67,
-      "stock": 5000000,
+      "stock": 30,
       "tags": ["pens", "used", "school"],
       "brand": "Faber-Castell",
       "sku": "STA-CAS-CAL-001",
       "weight": 50,
       "dimensions": { "width": 7.0, "height": 25.0, "depth": 1.5 },
-      "warrantyInformation": "No warranty",
-      "shippingInformation": "Ships in 3-5 business days",
+      "warrantyInformation": "1 month warranty",
+      "shippingInformation": "Ships in 6-7 business days",
       "availabilityStatus": "In Stock",
       "reviews": [
         {
           "rating": 5,
           "comment": "Writes smoothly and amazing value for money! Must buy for all students.",
           "date": "2025-04-30T09:41:02.053Z",
-          "reviewerName": "Nigel Richards",
+          "reviewerName": "Nigel Said",
           "reviewerEmail": "nigel.richards@x.dummyjson.com"
         }
       ],
@@ -219,31 +219,31 @@
         "barcode": "9551234567890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/product-images/misc/calculator.webp"],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/calculator-thumb.webp"
+      "images": ["https://cdn.shopify.com/s/files/1/0261/7176/8913/products/89e49c5d4cc16a95e9bfdfc24f43025f_800x.jpg?v=1615446842"],
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0261/7176/8913/products/89e49c5d4cc16a95e9bfdfc24f43025f_800x.jpg?v=1615446842"
     },
     {
       "id": 7,
       "title": "Mixue Lemonade Drink",
       "description": "Mixue Lemonade originated from a passion for crafting the perfect citrus drink. The journey began with a vision to create a beverage that goes beyond the ordinary. For all 80% and above scorers, they can earn a Mixue Lemonade, free of charge!",
-      "category": ["drinks"],
-      "price": 3.00,
+      "category": "drinks",
+      "price": 2.99,
       "discountPercentage": 100.0,
       "rating": 5,
-      "stock": 0,
+      "stock": 33,
       "tags": ["drinks", "reward"],
       "brand": "Mixue",
       "weight": 300,
       "dimensions": { "width": 7.0, "height": 19.0, "depth": 1.5 },
       "warrantyInformation": "No warranty",
-      "shippingInformation": "Only in-school pickup avaliable",
+      "shippingInformation": "Immediate shipping",
       "availabilityStatus": "Out of Stock, check back for Mid-Years",
       "reviews": [
         {
           "rating": 4.8,
           "comment": "Great drink and good target for all Math students!",
           "date": "2025-04-30T09:41:02.053Z",
-          "reviewerName": "Wesleyan Student",
+          "reviewerName": "Lucas Jothin",
           "reviewerEmail": "wesleyan.student@x.dummyjson.com"
         }
       ],
@@ -256,11 +256,90 @@
         "barcode": "9551234567890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.dummyjson.com/product-images/misc/calculator.webp"],
-      "thumbnail": "https://cdn.dummyjson.com/product-images/misc/calculator-thumb.webp"
+      "images": ["https://onecard.com.my/Files/FoodReview/G627_lfsgqscy.jpg"],
+      "thumbnail": "https://onecard.com.my/Files/FoodReview/G627_lfsgqscy.jpg"
+    },
+      {
+      "id": 8,
+      "title": "Artline 500A Whiteboard Marker Medium Point 6 Colours",
+      "description": "Writing on the whiteboard has never been easier! With the Artline 500A Whiteboard Marker Medium Point, you can now answer the teacher's questions on the board without borrowing their marker and making them annoyed! A set of 6 markers for only RM20.",
+      "category": "stationery",
+      "price": 299.99,
+      "discountPercentage": 10.0,
+      "rating": 4.2,
+      "stock": 50,
+      "tags": "stationery",
+      "brand": "Artline",
+      "weight": 200,
+      "dimensions": { "width": 7.0, "height": 19.0, "depth": 1.5 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Shipping in 6-7 working days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4.2,
+          "comment": "Great marker pen! I can now answer questions on the board without getting another nagging from my teacher to get my own whiteboard marker.",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Bartholomew, John",
+          "reviewerEmail": "john.bartholomew@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "1 week return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9551234567890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://down-my.img.susercontent.com/file/my-11134207-23020-l2km8ai7nlnve8"],
+      "thumbnail": "https://down-my.img.susercontent.com/file/my-11134207-23020-l2km8ai7nlnve8"
+    },
+      {
+      "id": 9,
+      "title": "Wesleyan A5 Exercise Book",
+      "description": "An A5 Exercise Book to do your homework and write notes in! For only the cheap price of RM1, storing your notes in the exclusive Wesley cover has never been easier. Pro Tip: Buy multiple books so your homework doesn't get eaten by your dog!",
+      "category": "stationery",
+      "price": 19.99,
+      "discountPercentage": 10.0,
+      "rating": 3.9,
+      "stock": 100,
+      "tags": "stationery",
+      "brand": "Wesley Exclusive",
+      "weight": 50,
+      "dimensions": { "width": 7.0, "height": 19.0, "depth": 1.5 },
+      "warrantyInformation": "No warranty",
+      "shippingInformation": "Shipping in 2-3 working days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Great notebook for writing all my notes down. This helped me pass Math for the first time!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "James Lin",
+          "reviewerEmail": "james.wong@x.dummyjson.com"
+        },
+        {
+          "rating": 3.8,
+          "comment": "Good notebook for doing homework in. However, I bought 5 books and all 5 got eaten by my dog. Next time, make the book bigger pls, thanks.",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Chan Wei Ong",
+          "reviewerEmail": "chan.wei.cong@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "1 week return policy",
+      "minimumOrderQuantity": 3,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9551234567890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": ["https://th.bing.com/th/id/OIP.42QDriYMSXevcibBWH88lAHaHa?o=7&cb=ucfimg2rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"],
+      "thumbnail": "https://th.bing.com/th/id/OIP.42QDriYMSXevcibBWH88lAHaHa?o=7&cb=ucfimg2rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
     }
   ],
-  "total": 7,
+  "total": 9,
   "skip": 0,
-  "limit": 7
+  "limit": 9
 }

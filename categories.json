@@ -1,4 +1,14 @@
-{
-  "stationery": "Stationery",
-  "used-item": "Used Items"
-}
+[
+  {
+    "slug": "stationery",
+    "name": "Stationery"
+  },
+  {
+    "slug": "used-items",
+    "name": "Used Items"
+  },
+  {
+    "slug": "drinks",
+    "name": "Drinks"
+  }
+]
