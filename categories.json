@@ -10,5 +10,9 @@
   {
     "slug": "drinks",
     "name": "Drinks"
+  },
+  {
+    "slug": "exclusive-items",
+    "name": "Exclusive Items"
   }
 ]

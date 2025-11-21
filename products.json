@@ -34,7 +34,9 @@
         "barcode": "9551234567890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://www.casio.com/content/dam/casio/product-info/locales/intl/en/calc/product/scientific/F/FX/FX5/fx-570EX/assets/fx-570EX_F.png.transform/main-visual-pc/image.png"],
+      "images": [
+        "https://www.casio.com/content/dam/casio/product-info/locales/intl/en/calc/product/scientific/F/FX/FX5/fx-570EX/assets/fx-570EX_F.png.transform/main-visual-pc/image.png"
+      ],
       "thumbnail": "https://www.casio.com/content/dam/casio/product-info/locales/intl/en/calc/product/scientific/F/FX/FX5/fx-570EX/assets/fx-570EX_F.png.transform/main-visual-pc/image.png"
     },
     {
@@ -108,7 +110,9 @@
         "barcode": "9556543217890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://images-na.ssl-images-amazon.com/images/I/81j79yOmTwL._AC_SL1500_.jpg"],
+      "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/81j79yOmTwL._AC_SL1500_.jpg"
+      ],
       "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81j79yOmTwL._AC_SL1500_.jpg"
     },
     {
@@ -145,7 +149,9 @@
         "barcode": "9553344556677",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://i5.walmartimages.com/asr/76526810-91da-4917-87c1-69245968fdc7_2.f1f4cd6ed762d85ca8fcb08508c10147.jpeg"],
+      "images": [
+        "https://i5.walmartimages.com/asr/76526810-91da-4917-87c1-69245968fdc7_2.f1f4cd6ed762d85ca8fcb08508c10147.jpeg"
+      ],
       "thumbnail": "https://i5.walmartimages.com/asr/76526810-91da-4917-87c1-69245968fdc7_2.f1f4cd6ed762d85ca8fcb08508c10147.jpeg"
     },
     {
@@ -170,7 +176,7 @@
           "rating": 4,
           "comment": "Good condition and very clean.",
           "date": "2025-04-30T09:41:02.053Z",
-          "reviewerName": "Jonathan Lim",
+          "reviewerName": "John Nathan Chow",
           "reviewerEmail": "adrian.lim@x.dummyjson.com"
         }
       ],
@@ -182,7 +188,9 @@
         "barcode": "9557766554433",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://www.ion8.co.uk/cdn/shop/files/B0BS6VBNY9.MAIN_dc7a1319-8d2f-4e80-bc8e-417105d18bd8.jpg?v=1750939037&width=1946"],
+      "images": [
+        "https://www.ion8.co.uk/cdn/shop/files/B0BS6VBNY9.MAIN_dc7a1319-8d2f-4e80-bc8e-417105d18bd8.jpg?v=1750939037&width=1946"
+      ],
       "thumbnail": "https://www.ion8.co.uk/cdn/shop/files/B0BS6VBNY9.MAIN_dc7a1319-8d2f-4e80-bc8e-417105d18bd8.jpg?v=1750939037&width=1946"
     },
     {
@@ -219,7 +227,9 @@
         "barcode": "9551234567890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://cdn.shopify.com/s/files/1/0261/7176/8913/products/89e49c5d4cc16a95e9bfdfc24f43025f_800x.jpg?v=1615446842"],
+      "images": [
+        "https://cdn.shopify.com/s/files/1/0261/7176/8913/products/89e49c5d4cc16a95e9bfdfc24f43025f_800x.jpg?v=1615446842"
+      ],
       "thumbnail": "https://cdn.shopify.com/s/files/1/0261/7176/8913/products/89e49c5d4cc16a95e9bfdfc24f43025f_800x.jpg?v=1615446842"
     },
     {
@@ -259,7 +269,7 @@
       "images": ["https://onecard.com.my/Files/FoodReview/G627_lfsgqscy.jpg"],
       "thumbnail": "https://onecard.com.my/Files/FoodReview/G627_lfsgqscy.jpg"
     },
-      {
+    {
       "id": 8,
       "title": "Artline 500A Whiteboard Marker Medium Point 6 Colours",
       "description": "Writing on the whiteboard has never been easier! With the Artline 500A Whiteboard Marker Medium Point, you can now answer the teacher's questions on the board without borrowing their marker and making them annoyed! A set of 6 markers for only RM20.",
@@ -292,14 +302,16 @@
         "barcode": "9551234567890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://down-my.img.susercontent.com/file/my-11134207-23020-l2km8ai7nlnve8"],
+      "images": [
+        "https://down-my.img.susercontent.com/file/my-11134207-23020-l2km8ai7nlnve8"
+      ],
       "thumbnail": "https://down-my.img.susercontent.com/file/my-11134207-23020-l2km8ai7nlnve8"
     },
-      {
+    {
       "id": 9,
-      "title": "Wesleyan A5 Exercise Book",
+      "title": "Exclusive Wesleyan A5 Exercise Book",
       "description": "An A5 Exercise Book to do your homework and write notes in! For only the cheap price of RM1, storing your notes in the exclusive Wesley cover has never been easier. Pro Tip: Buy multiple books so your homework doesn't get eaten by your dog!",
-      "category": "stationery",
+      "category": ["stationery", "exclusive-items"],
       "price": 19.99,
       "discountPercentage": 10.0,
       "rating": 3.9,
@@ -335,11 +347,96 @@
         "barcode": "9551234567890",
         "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
       },
-      "images": ["https://th.bing.com/th/id/OIP.42QDriYMSXevcibBWH88lAHaHa?o=7&cb=ucfimg2rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"],
+      "images": [
+        "https://th.bing.com/th/id/OIP.42QDriYMSXevcibBWH88lAHaHa?o=7&cb=ucfimg2rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+      ],
       "thumbnail": "https://th.bing.com/th/id/OIP.42QDriYMSXevcibBWH88lAHaHa?o=7&cb=ucfimg2rm=3&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": 10,
+      "title": "Elroy's Exclusive Drumsticks",
+      "description": "Elroy's Exclusive drum sticks were molded under strict quality control standards from carefully selected wood materials and is renowned for their consistent high quality. Get this premium and exclusive drumsticks for only RM 1999!",
+      "category": "exclusive-items",
+      "price": 1999.99,
+      "discountPercentage": 0.00001,
+      "rating": 5,
+      "stock": 1,
+      "tags": ["exclusive-items"],
+      "brand": "Elroy Exclusive",
+      "weight": 100,
+      "dimensions": { "width": 7.0, "height": 19.0, "depth": 1.5 },
+      "warrantyInformation": "3 month warranty",
+      "shippingInformation": "Shipping in 4-5 working days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Amazing drumsticks! Now I can shred on my drums and play (i mean use) it in school!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Goh Jern Han",
+          "reviewerEmail": "goh.jern.han@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "1 week return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9551234567890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://m.media-amazon.com/images/I/51DG0Dvm9uL._AC_SX679_.jpg"
+      ],
+      "thumbnail": "https://m.media-amazon.com/images/I/51DG0Dvm9uL._AC_SX679_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "BuniMart Optic Glasses",
+      "description": "BuniMart Optic Glasses are glasses designed for ease of use and all-day wearability. Made by the renouned Ms. Buni, and crafted from titanium.",
+      "category": "exclusive-items",
+      "price": 1999.99,
+      "discountPercentage": 20,
+      "rating": 5,
+      "stock": 10,
+      "tags": ["exclusive-items"],
+      "brand": "BuniMart Exclusive",
+      "weight": 100,
+      "dimensions": { "width": 7.0, "height": 19.0, "depth": 1.5 },
+      "warrantyInformation": "1 year warranty",
+      "shippingInformation": "Shipping in 4-5 working days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Absolutely incredible quality, buy two if you need them!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Ms. Buni",
+          "reviewerEmail": "goh.jern.han@x.dummyjson.com"
+        },
+        {
+          "rating": 5,
+          "comment": "I really need these!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "reviewerName": "Tan Dong Jiu",
+          "reviewerEmail": "goh.jern.han@x.dummyjson.com"
+        }
+      ],
+      "returnPolicy": "1 week return policy",
+      "minimumOrderQuantity": 1,
+      "meta": {
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "updatedAt": "2025-04-30T09:41:02.053Z",
+        "barcode": "9551234567890",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png"
+      },
+      "images": [
+        "https://www.verywellhealth.com/thmb/rrY26J4mQHSjdqd1k6fEmyl8noA=/520x0/filters:no_upscale():max_bytes(150000):strip_icc()/glassesUSA-21657f0eaa894f829ff2d42f122b22df.jpg"
+      ],
+      "thumbnail": "https://www.verywellhealth.com/thmb/rrY26J4mQHSjdqd1k6fEmyl8noA=/520x0/filters:no_upscale():max_bytes(150000):strip_icc()/glassesUSA-21657f0eaa894f829ff2d42f122b22df.jpg"
     }
   ],
-  "total": 9,
+  "total": 10,
   "skip": 0,
-  "limit": 9
+  "limit": 10
 }
